@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Web Development
 - 🌱 I’m currently learning ... React
 - 💞️ I’m looking to collaborate on ... big companies..
-- 📫 How to reach me ... @nirajbharadva@gmail.com
+- 📫 How to reach me ... nirajbharadva@gmail.com
 - 😄 Pronouns: ... He/His
 - ⚡ Fun fact: ... introvert😑
 
